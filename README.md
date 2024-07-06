@@ -1,2 +1,8 @@
 <h1>Multi-class Text Classification - News data</h1>
+
+<h2>Project Introduction</h2>
 <p>This report outlines the comprehensive process of performing a multi-class text classification task using the 20 Newsgroups dataset. The primary objective of this project is to develop a robust model capable of accurately categorizing news documents into different groups. To achieve this, we employed a pre-trained Transformer model, leveraging its powerful language representation capabilities, and fine-tuned it specifically for the 20 Newsgroups dataset. This approach not only enhances the model’s performance but also provides a practical application for understanding the intricacies of Transformer models and their real-world implementations. The methodology adopted includes several key stages: text preprocessing, Transformer model implementation, model training, and model evaluation. Through this project, we aim to deepen our understanding of Transformer models and their implementations. The insights gained will contribute to both our theoretical knowledge and practical skills in implementing advanced machine learning models for real-world applications.</p>
+
+<h2>Project Result</h2>
+<p>The final results of our project show that the overall accuracy is around 0.92, with an F1 score over 0.9. Detailed scores for each category indicate that the results are quite acceptable, with the lowest score still around 0.8. For categories with lower scores, we can identify specific areas for improvement in the future.</p>
+<img width="362" alt="image" src="https://github.com/kellykaopeimin/Multi-class_Text_Classification/assets/146883122/c07e47d7-b067-4bb8-a415-0212de1e17a4">
